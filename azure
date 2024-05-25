@@ -1,4 +1,3 @@
-loadstring(game.HttpGet('https://pastebin.com/XqffBKu7'))()
 repeat wait() until game:IsLoaded()
 
 Drawing = Drawing
